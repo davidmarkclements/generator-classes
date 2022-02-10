@@ -1,0 +1,29 @@
+{
+  "name": "generator-classes",
+  "version": "1.0.0",
+  "description": "> Generator and AsyncGenerator functions|constructors|classes as a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iterator",
+    "generator",
+    "async",
+    "async generator",
+    "async generator function",
+    "generator function",
+    "iterable",
+    "asyncIterator"
+  ],
+  "author": "David Mark Clements (@davidmarkclem)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/generator-classes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/generator-classes/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/generator-classes#readme"
+}
